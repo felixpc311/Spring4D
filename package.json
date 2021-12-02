@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/felixpc311/Spring4D/issues"
   },
-  "homepage": "https://github.com/felixpc311/Spring4D#readme"
+  "homepage": "https://github.com/felixpc311/Spring4D#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
